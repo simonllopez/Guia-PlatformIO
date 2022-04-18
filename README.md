@@ -7,13 +7,21 @@
 
 https://user-images.githubusercontent.com/57686377/163833565-a72bb409-2de5-4298-b8d9-08ec95de26da.mp4
 
+(Tarda un rato)
+
+
 ## Paso 2 : Descargar el Platformio
 
 https://user-images.githubusercontent.com/57686377/163833575-00408038-f5c5-444b-af36-608d75781186.mp4
 
-## Paso 3 : Descargar el Platformio
+(Tarda un rato)
+
+
+## Paso 3 : Crear Proyecto
 
 https://user-images.githubusercontent.com/57686377/163833584-053327d6-efcd-405a-9ec7-24ab19358fd0.mp4
+
+(Tarda un rato)
 
 ## Paso 4 : Escrbir Código
 
